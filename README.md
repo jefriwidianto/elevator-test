@@ -6,10 +6,11 @@
 5. Optimize the number of people served by elevator, e.g. move faster and smooth without removing the animation.
 6. Shorter time to serve is better.
 
-# Implementation From The Issues Above
-1. Reusable and OOP implementation code and more readable
-2. Paralel too serving pickup
-3. Correctly position text `Waiting` spesific destination pickup
+# Implementation From The Issues
+1. modified the code to be more readable.
+2. Reusable and OOP implementation code.
+3. Paralel too serving pickup.
+4. Correctly position text `Waiting` spesific destination pickup.
 
 # Trying The Capture Testing With Implementation New Code
 
